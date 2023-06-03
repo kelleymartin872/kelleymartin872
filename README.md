@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tung Jun Ming</h1>
+<h1 align="center">Hi 👋, I'm Happy Elephant</h1>
 <h3 align="center">An enthusiastic full-stack / blockchain developer from Singapore</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mjtechworks&label=Profile%20views&color=0e75b6&style=flat&theme=onedark" alt="mjtechworks" /> </p>
